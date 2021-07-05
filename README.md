@@ -5,9 +5,9 @@
 
 - 💡 Web Dev Intern at Letsgrowmore 
 
-- 🎓 3rd year Undergrad at SRMIST, Delhi NCR.
+- 🎓 2nd year Undergrad at SRMIST, Delhi NCR.
 
-- 🌱 I’m currently learning **Flask** & **Open-source**
+- 🌱 I’m currently learning **Flask** & Contributing to **Open-source**
 
 - 📫 reach me  at **kartikshrivardhan@gmail.com**
 
