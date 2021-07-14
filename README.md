@@ -5,7 +5,9 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cartikx3&label=Profile%20views&color=0e75b6&style=flat" alt="cartikx3" /> </p>
+<img alt="download" src="https://github.com/Cartikx3/Cartikx3/blob/5aa966fbe2a0e63d72da481ddf3fdf86c79d6edc/MEDIA/download.png" align="right"/>
+
+<p align="left"> <img src="" alt="cartikx3" /> </p>
 
 - 💡 Web Dev Intern at Letsgrowmore 
 
@@ -14,6 +16,7 @@
 - 🌱 I’m currently learning **Flask** & Contributing to **Open-source**
 
 - 📫 reach me  at **kartikshrivardhan@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
