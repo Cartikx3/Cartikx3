@@ -3,6 +3,8 @@
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img alt="download" src="https://github.com/Cartikx3/Cartikx3/blob/5c3c59fd72639ae6fc7f7ed39c4881bfc95ccd11/github.png" align="right"/>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <img alt="download" src="https://github.com/Cartikx3/Cartikx3/blob/e8aa91a6538214e0d08a124f30cf2237ba3d5895/giphy.gif" align="right"/>
