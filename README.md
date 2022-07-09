@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">A passionate Frontend developer & AI,ML Enthusiast.</h3>
+
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -14,12 +14,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
+- 🎓 final year Undergrad at SRMIST, Delhi NCR.
 
-- 💡 Web Dev Intern at Letsgrowmore 
-
-- 🎓 2nd year Undergrad at SRMIST, Delhi NCR.
-
-- 🌱 I’m currently learning **Flask** & Contributing to **Open-source**
+- 🌱 I’m currently learning **Full Stack** & Contributing to **Open-source**
 
 - 📫 reach me  at **kartikshrivardhan@gmail.com**
 
